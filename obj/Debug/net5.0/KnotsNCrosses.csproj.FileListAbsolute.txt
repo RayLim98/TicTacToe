@@ -1,0 +1,16 @@
+C:\Users\Mon\Programming\C#\KnotsNCrosses\bin\Debug\net5.0\KnotsNCrosses.exe
+C:\Users\Mon\Programming\C#\KnotsNCrosses\bin\Debug\net5.0\KnotsNCrosses.deps.json
+C:\Users\Mon\Programming\C#\KnotsNCrosses\bin\Debug\net5.0\KnotsNCrosses.runtimeconfig.json
+C:\Users\Mon\Programming\C#\KnotsNCrosses\bin\Debug\net5.0\KnotsNCrosses.runtimeconfig.dev.json
+C:\Users\Mon\Programming\C#\KnotsNCrosses\bin\Debug\net5.0\KnotsNCrosses.dll
+C:\Users\Mon\Programming\C#\KnotsNCrosses\bin\Debug\net5.0\ref\KnotsNCrosses.dll
+C:\Users\Mon\Programming\C#\KnotsNCrosses\bin\Debug\net5.0\KnotsNCrosses.pdb
+C:\Users\Mon\Programming\C#\KnotsNCrosses\obj\Debug\net5.0\KnotsNCrosses.csprojAssemblyReference.cache
+C:\Users\Mon\Programming\C#\KnotsNCrosses\obj\Debug\net5.0\KnotsNCrosses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mon\Programming\C#\KnotsNCrosses\obj\Debug\net5.0\KnotsNCrosses.AssemblyInfoInputs.cache
+C:\Users\Mon\Programming\C#\KnotsNCrosses\obj\Debug\net5.0\KnotsNCrosses.AssemblyInfo.cs
+C:\Users\Mon\Programming\C#\KnotsNCrosses\obj\Debug\net5.0\KnotsNCrosses.csproj.CoreCompileInputs.cache
+C:\Users\Mon\Programming\C#\KnotsNCrosses\obj\Debug\net5.0\KnotsNCrosses.dll
+C:\Users\Mon\Programming\C#\KnotsNCrosses\obj\Debug\net5.0\ref\KnotsNCrosses.dll
+C:\Users\Mon\Programming\C#\KnotsNCrosses\obj\Debug\net5.0\KnotsNCrosses.pdb
+C:\Users\Mon\Programming\C#\KnotsNCrosses\obj\Debug\net5.0\KnotsNCrosses.genruntimeconfig.cache
