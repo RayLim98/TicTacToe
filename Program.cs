@@ -7,7 +7,6 @@ namespace KnotsNCrosses
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Console is alive");
             GameKnotsNCrosses ticTacToe = new GameKnotsNCrosses();
             ticTacToe.StartGame();
 
@@ -18,7 +17,6 @@ namespace KnotsNCrosses
                 ticTacToe.CheckForWinningCondition();
                 ticTacToe.EndTurn(); 
             }
-            ticTacToe.PrintGrid();
         }
     }
 }
