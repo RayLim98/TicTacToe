@@ -7,8 +7,18 @@ namespace KnotsNCrosses
     {
         static void Main(string[] args)
         {
-            TestClass test = new TestClass();
-            Console.WriteLine( test.InputName("raymond"));
+            Console.WriteLine("Console is alive");
+            GameKnotsNCrosses ticTacToe = new GameKnotsNCrosses();
+            ticTacToe.StartGame();
+
+            while( ticTacToe.gameStart ) {
+                ticTacToe.PrintGrid();
+                int userInput = int.Parse(Console.ReadLine());
+                ticTacToe.InputMarker(userInput);
+                ticTacToe.CheckForWinningCondition();
+                ticTacToe.EndTurn(); 
+            }
+            ticTacToe.PrintGrid();
         }
     }
 }
