@@ -12,6 +12,7 @@ namespace KnotsNCrosses
 
             while( ticTacToe.gameStart ) {
                 ticTacToe.PrintGrid();
+                ticTacToe.Announcer();
                 int userInput = int.Parse(Console.ReadLine());
                 ticTacToe.InputMarker(userInput);
                 ticTacToe.CheckForWinningCondition();
